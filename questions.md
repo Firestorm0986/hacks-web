@@ -14,7 +14,7 @@
 
 <h2>Write about how you plan to use what you learned in this lesson to improve your CPT project.</h2>
 <p>Create a slide show showing the different cars that the company NIO offers and also an animation at the beginning to make the site more interactive. Additionally, add images to the background to show more style. Link is here</p>
-<h3> <a href="https://firestorm0986.github.io/frontend-proj/NIO">Check the changes here</a> </h3>
+<h3><a href="https://firestorm0986.github.io/frontend-proj/NIO">Check the changes here</a> </h3>
 
 <hr>
 
