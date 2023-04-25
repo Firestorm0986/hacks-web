@@ -22,8 +22,8 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: blue;
-  --snake: purple;
+  --apple: rgb(238, 238, 16);
+  --snake: rgb(15, 14, 15);
 }
 #p1 {
   color:purple;

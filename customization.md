@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/smiley-face.jpg" media="(min-width: 600px)">
+              <img src="images/smiley-face.jpg" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Aditya Ajay Nawandhar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Highshcool student who likes to do nothing but sleep
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/Firestorm0986" class="button"></a>
             </div>
           </article>
         </main>

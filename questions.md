@@ -32,23 +32,21 @@
 <h2>1. What is Bootstrap and how is it useful in developing websites?</h2>
 <p>Bootstrap is an open-source front-end framework used for building</p>
 <h2>2. What are the benefits of using Bootstrap in web development compared to css?</h2>
-<p>ANSWER</p>
+<p>Bootstrap provides prebuilt css classes and components that can be easily incorporated into your project. This can save a lot of time and effort compared to writing CSS from scratch.Additionally it has a responsive design which allows the website to look good on different platforms</p>
 <h2>3. How can you include Bootstrap in YOUR website development?</h2>
-<!--<p>ANSWER</p>-->
+<p>We can include it in our website by calling the resource in the "<head>" tags</p>
 <h2>4. What do selectors do? Explain one selector in your own words.</h2>
-<!--<p>ANSWER</p>-->
+<p>Selectors allow you to refer to a singular element or a collection of HTML elements by an identifying attribute. example - ".add" selector</p>
 
 <hr>
 
 <h1>JavaScript</h1>
 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
-<!--<p>ANSWER</p>-->
+<p>selection in the use of "if" statements. Iteration in the "for" loop at line 101. Sequencing - also inside the for loop.</p>
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
-<!--<p>ANSWER</p>-->
+<p>allows the use of a CSS variable that can be used in the program easily</p>
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
-<!--<p>ANSWER</p>-->
-
-
+<p>HTML provides the structure and content of a web page, CSS is responsible for styling and layout, and JavaScript adds interactivity and functionality. When these three technologies are used together, they create a dynamic and engaging web experience for users. The HTML, CSS, and JavaScript code are processed by the browser and rendered into a final product that users can interact with on their devices.</p>
 </div>
 </body>
